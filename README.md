@@ -2,6 +2,8 @@
 A simplistic mobile weather application to look at todays and next weeks weather. Includes weather, tamperature, wind, pressure and humidity -data.
 
 ## Screenshots
+![WeatherAppPic2](https://user-images.githubusercontent.com/69541309/150748350-455ad9b8-e327-4341-a9c3-36ad51b67554.png)
+
 
 
 ## Tech/framework used
